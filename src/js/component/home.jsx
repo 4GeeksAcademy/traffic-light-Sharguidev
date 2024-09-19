@@ -9,7 +9,7 @@ const Home = () => {
 
 	const [color, setColor] = useState("red");
 	
-	const luces = [{nombre: "rojo", valor: "red"}, {nombre: "amarillo", valor: "yellow"}, {nombre: "verde", valor: "green"}]
+	
 
 	return (
 		
